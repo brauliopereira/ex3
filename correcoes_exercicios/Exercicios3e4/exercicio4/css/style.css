@@ -1,0 +1,23 @@
+#titulo1{
+    color: rgb(95, 10, 5);
+    text-shadow: 2px 2px green;
+    font-size: 20pt;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.t1 {
+    text-indent: 5px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.t2{
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+body{
+    background-image: url("../img/fundo_trans.png"), url("../img/fundo.jpg");
+
+}
